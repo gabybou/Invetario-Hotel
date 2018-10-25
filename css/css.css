@@ -1,0 +1,34 @@
+﻿
+
+/*JAIRO MACHUCA MP161604------JONATHAN MARTINEZ MC160849*/
+
+body {
+ 
+}
+
+#cajita_feliz{
+    
+    margin-right:0 auto; 
+    text-align: center;
+}
+
+#lblContrasena{
+    margin-right:50px;
+}
+
+#lblCorreo{
+    margin-right:50px;
+}
+
+div.col-md-6{
+     text-align:center;
+     margin-left:405px;
+}
+
+fieldset{
+    width: 500px;
+}
+
+legend{
+    padding-right: 70px;
+}

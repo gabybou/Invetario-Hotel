@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Conexion">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAEAACAABAAAAAAAAAAQAAAAQAAAAQAAAAAAAEAAA=</HashCode>
+      <FileName>App_Code\Conexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DActualizar">
+    <Position X="3" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IIAAAABAACgEACAEgCAAgEKAAgECAgAJAAAAAgABDAA=</HashCode>
+      <FileName>App_Code\DActualizar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCuenta">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAEEAAAEAA=</HashCode>
+      <FileName>App_Code\DCuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DEliminar">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAQAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\DEliminar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIngresarEmpleado">
+    <Position X="5.25" Y="3.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAACgEACAEgCAAgEKAQgEGAgABAAAAAgABDAA=</HashCode>
+      <FileName>App_Code\DIngresarEmpleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NActualizar">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\NActualizar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NCuenta">
+    <Position X="3" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\NCuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEliminar">
+    <Position X="7.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\NEliminar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NIngresarEmpleado">
+    <Position X="7.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Code\NIngresarEmpleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
